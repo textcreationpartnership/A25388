@@ -133,7 +133,10 @@
                   <p>
                      <hi>London,</hi> Printed for <hi>Humphrey Moseley</hi> at the <hi>Princes Armes</hi> in St. Pauls Church-yard. 1648.</p>
                   <pb facs="tcp:98826:2" rendition="simple:additions"/>
-                  <figure/>
+                  <p>
+                     <pb facs="tcp:98826:2"/>
+                     <figure/>
+                  </p>
                   <gap reason="duplicate" extent="1 page">
                      <desc>〈1 page duplicate〉</desc>
                   </gap>
